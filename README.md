@@ -1,4 +1,6 @@
-# B.S. Computer Engineering from UC San Diego
+## B.S. Computer Engineering from UC San Diego
+
+### [Resume](https://pierrebeur.github.io/resume/resume.pdf)
 
 <!--
 **PierreBeur/PierreBeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
