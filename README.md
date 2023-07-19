@@ -2,6 +2,8 @@
 
 ### [Resume](https://pierrebeur.github.io/resume/resume.pdf)
 
+![contributions](https://github.com/PierreBeur/PierreBeur/assets/97627312/ac1bd425-6308-4e62-a640-aed7bf46aa6b)
+
 <!--
 **PierreBeur/PierreBeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
