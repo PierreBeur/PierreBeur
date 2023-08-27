@@ -1,6 +1,6 @@
 # ⚜️ B.S. Computer Engineering, UC San Diego | [Resume](https://pierrebeur.github.io/resume/resume.pdf)
 
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
+![C++](https://img.shields.io/badge/-C%2FC++-black?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
