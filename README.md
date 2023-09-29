@@ -1,4 +1,4 @@
-# ⚜️ B.S. Computer Engineering, UC San Diego ⚜️ <a href="https://pierrebeur.github.io/resume/resume.pdf">Resume</a></div>
+# ⚜️ B.S. Computer Engineering, UC San Diego ⚜️ <a href="https://pierrebeur.github.io/resume/resume.pdf">Resume</a>
 
 ![C++](https://img.shields.io/badge/-C%2FC++-black?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
